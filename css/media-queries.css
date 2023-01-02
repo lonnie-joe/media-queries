@@ -110,5 +110,11 @@ footer{
         border: none;
         background-color: inherit;
     }
+    .main {
+        width: 65%;
+    }
+    .sub-section {
+        width: 35%;
+    }
 }
 
